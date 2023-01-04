@@ -13,20 +13,12 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
 * 🤝  I'm open to collaborating on Open Source Projects
 * 😎 Area Of Expertise
 
-* ⚡ ***`AWS`***
-* ⚡ ***`Azure`***
-* ⚡ ***`GCP`***
-* ⚡ ***`Docker`***
-* ⚡ ***`Maven`***
-* ⚡ ***`Jenkins`***
-* ⚡ ***`Terraform`***
-* ⚡ ***`GitHub`***
-* ⚡ ***`GitLab`***
-* ⚡ ***`Nagios`***
-* ⚡ ***`Maven`***
-* ⚡ ***`SonarQube`*** 
-* ⚡ ***`Ansible`***
-* ⚡ ***`Nexus Artifactory`***
+    ⚡ ***`AWS`*** ***`Azure`*** ***`GCP`*** ***`Docker`*** ***`Maven`*** ***`Jenkins`*** ***`Terraform`*** ***`GitHub`***
+
+    ⚡ ***`GitLab`*** ***`Nagios`*** ***`Maven`*** ***`SonarQube`*** ***`Ansible`*** ***`Nexus Artifactory`***
+    
+    ⚡ ***`ITIL`*** ***`Routing and Switching`*** ***`Networking And Security`*** ***`Load Balancing`***
+
 
 [![Prashnat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prashhantss&&theme=xcode)](https://github.com/prashhantss)
 

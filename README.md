@@ -51,4 +51,4 @@ Feel free to contact me anytime
   <a href="https://www.instagram.com/prashhantss">
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p> </center>
+</p>

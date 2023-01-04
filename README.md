@@ -8,6 +8,13 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
   <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres"/></br>
   <br><img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/></br>
 </p>
+
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashhantss&label=Profile%20views&color=0e75b6&style=flat" alt="prashhantss" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prashhantss" target="blank"><img src="https://img.shields.io/twitter/follow/prashhantss?logo=twitter&style=for-the-badge" alt="prashhantss" /></a> </p>

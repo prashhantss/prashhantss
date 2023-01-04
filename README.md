@@ -12,12 +12,14 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
 
 * 🤝  I'm open to collaborating on Open Source Projects
 
+[![Prashnat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prashhantss&&theme=xcode)](https://github.com/prashhantss)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prashhantss" width= "500" />
-</p>
+<br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashhantss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prashhantss" /></p></br>
 
-<br />
+<br><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prashhantss&show_icons=true&locale=en&theme=tokyonight" alt="prashhantss" /></p></br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashhantss&&theme=tokyonight" alt="prashhantss" /></p>
+
 
 ### 😎 Have a good experince using
 

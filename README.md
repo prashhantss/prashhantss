@@ -8,13 +8,14 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
   <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres"/></br>
   <br><img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/></br>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashhantss&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashhantss&label=Profile%20views&color=0e75b6&style=flat" alt="prashhantss" /> </p>
 
-<p align="left"> <a href="https://twitter.com/prashhantss" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="prashhantss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prashhantss" target="blank"><img src="https://img.shields.io/twitter/follow/prashhantss?logo=twitter&style=for-the-badge" alt="prashhantss" /></a> </p>
 <img align="right" alt="working" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-* 🤝  I'm open to collaborating on Open Source Projects
-* 😎 Area Of Expertise
+* 👩‍💻  Technology Driven Proffessional.
+* 🤝  Open to collaborate Open Source Projects.
+* 😎  Area Of Expertise
 
     ⚡ ***`AWS`*** ***`Azure`*** ***`GCP`*** ***`Docker`*** ***`Maven`*** ***`Jenkins`*** ***`Terraform`*** ***`GitHub`***
 

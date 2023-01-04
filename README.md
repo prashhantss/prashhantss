@@ -18,7 +18,7 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
 
 <br />
 
-### 😎 Currently have a good experince using
+### 😎 Have a good experince using
 
 * [ ] ***`AWS`***
 * [ ] ***`Azure`***

@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br />
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,jenkins,docker,kubernetes,linux,mongodb,postgres,"/>
   <img src="https://skillicons.dev/icons?i=ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/>
 </p>

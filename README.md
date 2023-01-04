@@ -4,7 +4,8 @@
 
 <br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,jenkins,docker,kubernetes,linux,mongodb,postgres,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,jenkins,docker,kubernetes,linux,mongodb,postgres,"/>
+  <img src="https://skillicons.dev/icons?i=ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,"/>
 </p>
 <br />
 

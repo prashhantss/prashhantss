@@ -5,8 +5,9 @@
 I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps`*** and ***`Python`*** in the future.
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres,"/>
-  <img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle"/>
+   <img src="https://skillicons.dev/icons?i=linux,mongodb,postgres,nginx,visualstudio,html"/>
 </p>
 
 * 🤝  I'm open to collaborating on Open Source Projects

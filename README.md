@@ -2,8 +2,7 @@
 
 ## Hello, This is Prashant <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="35" height="35">
 
-I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps`*** and ***`Python`*** in the future.
-<p align="center">
+I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps`***
   <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres"/></br>
   <br><img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/></br>
 </p>

@@ -3,23 +3,15 @@
 ## Hello, This is Prashant <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="35" height="35">
 
 I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps`*** and ***`Python`*** in the future.
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle"/>
-   <img src="https://skillicons.dev/icons?i=linux,mongodb,postgres,nginx,visualstudio,html"/>
+  <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres"/></br>
+  <br><img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/></br>
 </p>
 
+<img align="right" alt="working" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 * 🤝  I'm open to collaborating on Open Source Projects
-
-[![Prashnat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prashhantss&&theme=xcode)](https://github.com/prashhantss)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashhantss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prashhantss" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashhantss&show_icons=true&locale=en&theme=tokyonight" alt="prashhantss" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashhantss&&theme=tokyonight" alt="prashhantss" /></p>
-
-
-### 😎 Have a good experince using
+* 😎 Area Of Expertise
 
 * [ ] ***`AWS`***
 * [ ] ***`Azure`***
@@ -27,13 +19,21 @@ I am interested in ***`Cloud Computing`***. Also, I love to automate workloads a
 * [ ] ***`Docker`***
 * [ ] ***`Maven`***
 * [ ] ***`Jenkins`***
+* [ ] ***`Terraform`***
 * [ ] ***`GitHub`***
 * [ ] ***`GitLab`***
 * [ ] ***`Nagios`***
 * [ ] ***`Maven`***
-* [ ] ***`SonarQube`***
+* [ ] ***`SonarQube`*** 
 * [ ] ***`Ansible`***
-* [ ] ***`Nexus`***
+* [ ] ***`Nexus Artifactory`***
+
+[![Prashnat's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=prashhantss&&theme=xcode)](https://github.com/prashhantss)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashhantss&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prashhantss" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashhantss&show_icons=true&locale=en&theme=tokyonight" alt="prashhantss" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashhantss&&theme=tokyonight" alt="prashhantss" /></p>
+
 
 <br />
 

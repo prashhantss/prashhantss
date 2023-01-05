@@ -5,7 +5,7 @@
 I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps Tools`***.
 
 <p align="center">
-  <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres"/></br>
+  <br><img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres,tomcat"/></br>
   <br><img src="https://skillicons.dev/icons?i=git,ansible,github,githubactions,gitlab,gradle,nginx,visualstudio,html"/></br>
 </p>
 

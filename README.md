@@ -1,6 +1,6 @@
 ## Hello, This is Prashant <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="35" height="35">
 
-I am interested in ***`Cloud Computing`***. Also, I love to automate workloads and aspire to research in ***`DevOps Tools`***.
+I am interested in ***`Cloud Computing`***. Love to automate my workloads and aspire to research in ***`DevOps Tools`***.
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,jenkins,docker,kubernetes,linux,mongodb,postgres,tomcat"/>

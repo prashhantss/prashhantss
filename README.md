@@ -36,7 +36,7 @@ I am interested in ***`Cloud Computing`***. Love to automate my workloads and as
 
 ### 📫 How to reach me
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+<img align='right' src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="180">
 
 
 ##

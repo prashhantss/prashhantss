@@ -19,6 +19,7 @@ I am interested in ***`Cloud Computing`***. Love to automate my workloads and as
 <img align="right" alt="working" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 * 👩‍💻  Technology Driven Proffessional.
+* ✍   Passionate self-taught Devops Engineer and a freelance Devops Engineer.
 * 🤝  Open to collaborate Open Source Projects.
 * 😎  Area Of Expertise
 

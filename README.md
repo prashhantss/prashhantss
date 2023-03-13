@@ -23,7 +23,7 @@ I am interested in ***`Cloud Computing`***. Love to automate my workloads and as
 * 🤝  Open to collaborate Open Source Projects.
 * 😎  Area Of Expertise
 
-    ⚡ ***`AWS`*** ***`Azure`*** ***`GCP`*** ***`Docker`*** ***`Maven`*** ***`Jenkins`*** ***`Terraform`*** ***`GitHub`***
+    ⚡ ***`AWS`*** ***`Azure`*** ***`GCP`*** ***`Docker`*** ***`Kubernetes`*** ***`Maven`*** ***`Jenkins`*** ***`Terraform`*** ***`GitHub`*** 
 
     ⚡ ***`GitLab`*** ***`Nagios`*** ***`Maven`*** ***`SonarQube`*** ***`Ansible`*** ***`Nexus Artifactory`***
     

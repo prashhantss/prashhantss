@@ -1,3 +1,64 @@
+# My First Blog Post
+
+Published on April 14, 2023
+
+This is my first blog post on Github! I'm excited to start sharing my thoughts and ideas with the world.
+
+In this post, I want to talk about my experience learning to code. It's been a challenging journey, but also incredibly rewarding.
+
+## My Coding Journey
+
+I first became interested in coding when I was in high school. I took a few computer science classes and learned the basics of programming languages like Java and Python. But it wasn't until college that I really started to dive deep into coding.
+
+I majored in computer science and spent countless hours in the computer lab, working on coding projects and assignments. It was tough at first, but I slowly started to see the pieces come together.
+
+Now, I work as a software developer and I love what I do. Coding has given me the power to create things that never existed before, and to solve complex problems in new and innovative ways.
+
+## Why I Love Coding
+
+There are so many things I love about coding. Here are just a few:
+
+- It's a creative outlet. Coding allows me to express myself and bring my ideas to life.
+- It's a constant challenge. There's always something new to learn and a new problem to solve.
+- It's a community. The coding community is incredibly supportive and collaborative. I've made so many friends through coding.
+
+## Conclusion
+
+Thanks for reading my first blog post! I hope you enjoyed it. If you're interested in learning to code, I highly recommend it. It's a challenging journey, but it's also incredibly rewarding.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Hello, This is Prashant <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f609/512.gif" alt="😉" width="35" height="35">
 
 I am interested in ***`Cloud Computing`***. Love to automate my workloads and aspire to research in ***`DevOps Tools`***. I take great care in the experience, architecture, and code quality of the things I build. I always passionate about understanding the core concepts behind different popular Technological Fields..
